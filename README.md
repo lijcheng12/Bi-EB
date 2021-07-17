@@ -1,4 +1,5 @@
 # Bi-EB
+![Bi_EB_example](https://user-images.githubusercontent.com/53017373/126046429-469fb8d6-1504-42d8-8dc9-fd3451db268c.png)
 
 
 https://github.com/lijcheng12/Bi-EB/blob/main/Bi_EB_example.png
