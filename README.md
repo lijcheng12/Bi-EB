@@ -1,6 +1,5 @@
 # Bi-EB
 ![Bi_EB_example](https://user-images.githubusercontent.com/53017373/126046429-469fb8d6-1504-42d8-8dc9-fd3451db268c.png)
-#### Figure 1: 
 Bicluster for (a) breast cancer luminal subtype (b) breast cancer basal-like subtype. Red color shows higher probability and green shows lower probability of belonging to bicluster. 
 
 #### Example data
