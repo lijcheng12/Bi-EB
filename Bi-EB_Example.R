@@ -1,6 +1,7 @@
 
-###################################
-###algorithm 1, function
+######################################
+######   algorithm 1, function   #####
+######################################
  #get source codes and truth tables (it is on git repo for V2_studies 'https://git.illumina.com/ClinicalGenomics/V2_studies.git')
     gitpath = "...\\Bi-EB\\"
 ssource(file.path(gitpath,"Bi-EB\\src\\Bi_EB_alg1.R"))
@@ -8,6 +9,7 @@ ssource(file.path(gitpath,"Bi-EB\\src\\Bi_EB_alg1.R"))
 ###Define inputpath to data directory
 inputpath<- ".../data"
 output <- ".../result"
+
 ########################
 ##Load  TCGA data
 
