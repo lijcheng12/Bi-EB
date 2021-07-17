@@ -14,6 +14,6 @@ The novelty Bi-EB algorithm can search the coherent and flexible co-regulation p
 -Doing biclusters among multiple omics data and specises.
 -Easy to use. We provide an example how to use Bi-EB, including example data and code.
 
-## contact with
+## Contact with
 
 lijun.cheng@osumc.edu
