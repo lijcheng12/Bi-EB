@@ -1,6 +1,6 @@
 # Bi-EB
 
-![Framework](https://github.com/lijcheng12/Bi-EB/Bi_EB for multi-omics biclustering in different subgroup patients.tif)
+![Framework](./lijcheng12/Bi-EB/Bi_EB_example.png)
 
 ## API Link
 ### https://github.com/lijcheng12/Bi-EB/README.
