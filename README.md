@@ -1,6 +1,6 @@
 # Bi-EB
 
-![Framework](./DGCyTOF_Package/docs/DGCyTOF.png)
+![Framework](./Bi-EB/Bi_EB for multi-omics biclustering in different subgroup patients.tif)
 
 ## API Link
 ### https://github.com/lijcheng12/Bi-EB/README.
