@@ -1,5 +1,6 @@
 # Bi-EB
 
+![Framework](./blob/main/Bi_EB_example.png)
 https://github.com/lijcheng12/Bi-EB/blob/main/Bi_EB_example.png
 
 ## API Link
