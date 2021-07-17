@@ -1,6 +1,6 @@
 # Bi-EB
 
-![Framework](./lijcheng12/Bi-EB/Bi_EB_example.png)
+https://github.com/lijcheng12/Bi-EB/blob/main/Bi_EB_example.png
 
 ## API Link
 ### https://github.com/lijcheng12/Bi-EB/README.
