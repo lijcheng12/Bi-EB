@@ -1,5 +1,7 @@
-#####################
-###Recovery and Relevance Function
+####################################################
+###    Performance evaluation of Bi-clustering   ###
+###    Recovery and Relevance Function           ###
+####################################################
 
 ##########
 #bicres1>> TRUE set  ; bicres2>>RESULT set
