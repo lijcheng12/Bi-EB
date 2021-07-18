@@ -20,9 +20,10 @@ The novelty Bi-EB algorithm can search the coherent and flexible co-regulation p
 ### https://github.com/lijcheng12/Bi-EB/README.
 
 ## Features
--Muliple omics data integration
--Doing biclusters among multiple omics data and specises.
--Easy to use. We provide an example how to use Bi-EB, including example data and code.
+-Muliple omics data integration <p>
+-Doing biclusters among multiple omics data and specises.<p>
+-Easy to use. We provide an example how to use Bi-EB, including example data and code.<p>
+-systematic patterns of the (gene expression/Protein amount) ratio is found 
 
 ## Contact with
 
