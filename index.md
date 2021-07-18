@@ -1,37 +1,42 @@
+# Bi-EB
+![Bi_EB_example](https://user-images.githubusercontent.com/53017373/126046429-469fb8d6-1504-42d8-8dc9-fd3451db268c.png)
+
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/lijcheng12/Bi-EB/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [Bi-EB on GitHub](https://github.com/lijcheng12/Bi-EB/) to obtain all materials.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Bicluster for (a) breast cancer luminal subtype (b) breast cancer basal-like subtype. Red color shows higher probability and green shows lower probability of belonging to bicluster. 
+#### Clinical evidence: these important drug targets in breast cancer, ESR1, PGR, HER2, EGFR and AR have a high similarity in mRNA and protein variation in both tumors and cell lines [1][2]. GATA3 and RP56KB1 are two promising drug targets for breast cancer [1][2].
+[1] Jiang GL, Zhang SJ, Yazdanparast A, Li M, Vikram Pawar A, Liu YL, Inavolu SM, Cheng LJ. Comprehensive comparison of molecular portraits between cell lines and tumors in breast cancer. BMC genomics, 2016, 17(7), 281-301. <p>
+[2] Yazdanparast A, Li L, Radovich M, Cheng LJ. Signal translational efficiency between mRNA expression and antibody-based protein expression for breast cancer and its subtypes from cell lines to tissue. International Journal of Computational Biology and Drug Design , 2018, 11 (1-2), 67-89.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+#### Example data
+![Bi_EB_example_data](https://github.com/lijcheng12/Bi-EB/blob/main/Example%20data%20for%20Bi-EB.xlsx) <p>
+![Bi_EB_synthetic_data](https://github.com/lijcheng12/Bi-EB/blob/main/synthetic_data.xlsx) <p>
+##### Supplementary data is for systematic patterns of the (gene expression/Protein amount) ratio absed on the Cancer Genomics Atlas (TCGA) and the Cancer Cell Line Encyclopedia (CCLE) breast cancer data 
+  
+#### Example code
+![Bi_EB_example_code](https://github.com/lijcheng12/Bi-EB/blob/main/Bi-EB_Example.R)
 
-- Bulleted
-- List
+## Introduction
+The novelty Bi-EB algorithm can search the coherent and flexible co-regulation patterns across multi-omics data both in tumors and cancer cells. Transparent probabilistic interpretation and ratio strategy for omics data is first time proposed to detect the co-regulation patterns of drug targets and identify their associated molecular functions. 
 
-1. Numbered
-2. List
+## Author summary
+The genome molecular features shared between cell lines and tumors give us insight into discovering potential drug targets for cancer patients. Our previous studies demonstrate that these important drug targets in breast cancer, ESR1, PGR, HER2, EGFR, and AR have a high similarity in mRNA and protein variation in both tumors and cell lines [1-2]. Based on previous studies we made specific hypothesis that there exist translational gene sets that are characterized by highly correlated molecular profiles among RNA, and proteins. There are translational gene sets that are shared between tumor tissues and cancer cell lines. These gene sets show similar pattern in a subgroup of cell line and tissue samples. In this study, we aim to integrate cell line and tissue RNA and protein profiles to characterize drug-able target expression alterations across both RNA and protein data by using bi-clustering method. Here we developed a biclustering method based on empirical bayesian (Bi-EB), to detect the local pattern of integrated omics data both in cancer cells and tumors. We adopt a data driven statistics strategy by using Expected-Maximum (EM) algorithm to extract the foreground bicluster pattern from its background noise data in an iterative search. Our novel Bi-EB statistical model has better chance to detect co-current patterns of gene and protein expression variation than the existing biclustering algorithms and seek the drug targets’ co-regulated modules.
 
-**Bold** and _Italic_ and `Code` text
+## API Link
+### https://github.com/lijcheng12/Bi-EB/README.
 
-[Link](url) and ![Image](src)
-```
+## Features
+-Muliple omics data integration <p>
+-Doing biclusters among multiple omics data and specises.<p>
+-Easy to use. We provide an example how to use Bi-EB, including example data and code.<p>
+-systematic patterns of the (gene expression/Protein amount) ratio is found 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Contact with
 
-### Jekyll Themes
+lijun.cheng@osumc.edu
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lijcheng12/Bi-EB/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
