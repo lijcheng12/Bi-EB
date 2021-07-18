@@ -1,4 +1,4 @@
-##To intall Bi_EB function
+##To install Bi_EB package
 install.packages("devtools")
 library("devtools")
 
