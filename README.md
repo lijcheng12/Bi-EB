@@ -9,7 +9,7 @@
 #### Example data
 ![Bi_EB_example_data](https://github.com/lijcheng12/Bi-EB/blob/main/Example%20data%20for%20Bi-EB.xlsx) <p>
 ![Bi_EB_synthetic_data](https://github.com/lijcheng12/Bi-EB/blob/main/synthetic_data.xlsx) <p>
-![Bi_EB_supplementary data] for systematic patterns of the (gene expression/Protein amount) ratio among CCLE and TCGA breast cancer data 
+##### Supplementary data is for systematic patterns of the (gene expression/Protein amount) ratio among CCLE and TCGA breast cancer data 
   
 #### Example code
 ![Bi_EB_example_code](https://github.com/lijcheng12/Bi-EB/blob/main/Bi-EB_Example.R)
