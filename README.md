@@ -18,7 +18,7 @@ The genome molecular features shared between cell lines and tumors give us insig
   
 #### Example data
 ![Bi_EB_example_data](https://github.com/lijcheng12/Bi-EB/blob/main/Example%20data%20for%20Bi-EB.xlsx) <p>
-![Bi_EB_synthetic_data](https://github.com/lijcheng12/Bi-EB/blob/main/Supplementary File S9_synthetic_data.xlsx) <p>
+![Bi_EB_synthetic_data](https://github.com/lijcheng12/Bi-EB/blob/main/Supplementary%20File%20S9_synthetic_data.xlsx) <p>
 ##### Supplementary data is for systematic patterns of the (gene expression/Protein amount) ratio absed on the Cancer Genomics Atlas (TCGA) and the Cancer Cell Line Encyclopedia (CCLE) breast cancer data 
   
 #### Example code
