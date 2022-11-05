@@ -1,5 +1,5 @@
 # Bi-EB
-### Paper : Aida Yazdanparast, Lang Li*, Chi Zhang and Lijun Cheng*. Bi-EB:Empirical Bayesian Biclustering for Multi-Omics Data Integration Pattern Identification among Species. Genes 2022, 13, x. https://doi.org/10.3390/xxxxx
+### Paper : Aida Yazdanparast, Lang Li*, Chi Zhang and Lijun Cheng*. Bi-EB:Empirical Bayesian Biclustering for Multi-Omics Data Integration Pattern Identification among Species. Genes. 2022; 13(11):1982. https://doi.org/10.3390/genes13111982
 
 <p>
 
